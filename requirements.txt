@@ -1,7 +1,5 @@
-openwisp-controller @ https://github.com/ATMEGA17/ow_controller/tarball/master
 influxdb~=5.3.1
 django-nested-admin~=4.0.2
 netaddr~=0.8
 python-dateutil~=2.8.2
-openwisp-utils @ https://github.com/ATMEGA17/ow_utils/tarball/master
 urllib3~=2.0.3
